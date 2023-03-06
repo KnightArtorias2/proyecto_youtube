@@ -1,0 +1,3 @@
+Problemas/Dudas:
+no consegui hacer que el titulo del video o el nombre del artista quedaran a un lado de la foto
+antes de poner los videos, el aside estaba horizontal y funcionaba, luego no, e intente organizarlo de nuevo pero no pude
